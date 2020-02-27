@@ -1,0 +1,72 @@
+.jumbotron {
+    background-color:rgba(12, 99, 180, 0.863);
+    margin-bottom: 0;
+}
+#color-text{
+    color: yellow;
+    font-weight: 400;
+    font-size: .7em;
+    margin-left: 10px;
+}
+.carousel-item{
+    height: 500px;
+}
+footer {
+    height: 500px;
+}
+.card-deck{
+    margin-top: 10px;
+}
+.carousel-slide {
+    margin-top: 0;
+} 
+.container-fluid > h2 {
+    text-align: center;
+    padding: 10px;
+}
+.container-fluid {
+    background-color: rgba(12, 99, 180, 0.863);
+    height: 200px;
+    font-size: 1.2rem;
+    color: white;
+}
+
+#main-head-text {
+    font-weight: 700;
+}
+.nav-link:hover{
+    padding: 10px;
+    transition: .5s;
+    background-color: rgb(199, 189, 189);
+    border-radius: 5px;
+}
+.form {
+    display: inline-block;
+    width: 400px;
+    background-color: rgba(12, 99, 180, 0.863);
+    margin: 10px;
+}
+.about-text {
+    color: yellow;
+}
+.bike-img{
+    width: 100%;
+    height:100px;
+}
+#bike {
+    height: 500px;
+    width: 100%
+}
+#map {
+    width: 100%;
+    height: 400px;
+
+  }
+  #phone {
+      color: yellow;
+      margin: 10px;
+  }
+  .lead {
+      font-weight: bold;
+        margin: 10px
+    }
